@@ -1,0 +1,31 @@
+# IDE config
+.idea/
+.vscode/
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Environment secrets
+.env
+
+# Raw data (large binary files)
+dy_file/dy_video/
+dy_file/dy_video_base64/
+dy_file/dy_video_csv/
+dy_file/dy_vloger_comment/
+
+# Intermediate split files (reproducible from source CSVs)
+dy_file/split_all_data/
+dy_file/split_all_comments/
+dy_file/split_all_comments_labeled/
+
+# Generated output
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
