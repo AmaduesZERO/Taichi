@@ -19,7 +19,7 @@ TaiChi/
 │   │   ├── douyin_label.py         # 豆包大模型视频标签识别
 │   │   └── classify_comments.py    # DeepSeek评论多标签分类
 │   │
-│   ├── analysis/                   # 分析 & 制图（Nature期刊级）
+│   ├── analysis/                   # 分析 & 制图
 │   │   ├── comment_cognition.py    # 评论认知分析 (论点2&3)
 │   │   ├── video_content.py        # 视频内容分析 (论点1&2)
 │   │   ├── video_extended.py       # 视频扩展分析
