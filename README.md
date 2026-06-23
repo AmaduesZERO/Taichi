@@ -20,8 +20,8 @@ TaiChi/
 │   │   └── classify_comments.py    # DeepSeek评论多标签分类
 │   │
 │   ├── analysis/                   # 分析 & 制图
-│   │   ├── comment_cognition.py    # 评论认知分析 (论点2&3)
-│   │   ├── video_content.py        # 视频内容分析 (论点1&2)
+│   │   ├── comment_cognition.py    # 评论认知分析 
+│   │   ├── video_content.py        # 视频内容分析 
 │   │   ├── video_extended.py       # 视频扩展分析
 │   │   ├── fusion.py              # 视频-评论融合分析
 │   │   └── china_heatmap.py        # 中国IP属地热力地图
